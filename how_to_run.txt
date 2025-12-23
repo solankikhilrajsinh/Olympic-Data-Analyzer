@@ -1,0 +1,11 @@
+This project python version is 3.11.9 for stable.
+
+To activate virtual environment
+D:\ML_Projects\Olympic_Data_Analyzer>
+olympic_env\Scripts\activate
+
+To run project
+(olympic_env) D:\ML_Projects\Olympic_Data_Analyzer>
+streamlit run app.py
+
+http://localhost:8501
